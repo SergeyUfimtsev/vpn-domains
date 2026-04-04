@@ -1,2 +1,2 @@
-ipset=/anthropic.com/vpn_domains
+nftset=/anthropic.com/4#inet#fw4#vpn_domains
 ipset=/mongodb.com/vpn_domains
