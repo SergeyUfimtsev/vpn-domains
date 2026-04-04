@@ -3,7 +3,7 @@
 START=99
 
 start () {
-    DOMAINS=https://raw.githubusercontent.com/SergeyUfimtsev/vpn-domains/master/domains.lst
+    DOMAINS=https://raw.githubusercontent.com/SergeyUfimtsev/vpn-domains/master/dnsmasq.d/domains.lst
 
     count=0
     while true; do
