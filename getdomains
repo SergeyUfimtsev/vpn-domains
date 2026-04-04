@@ -8,7 +8,7 @@ start () {
     count=0
     while true; do
         if curl -m 3 github.com; then
-            curl -f $DOMAINS --output /tmp/dnsmasq.cfg01411c.d/domains.lst
+            wget $DOMAINS -O /tmp/dnsmasq.cfg01411c.d/domains.lst
             break
         else
             echo "GitHub is not available. Check the internet availability [$count]"
