@@ -7,3 +7,4 @@ nftset=/sonatype.com/4#inet#fw4#vpn_domains
 nftset=/ansible.com/4#inet#fw4#vpn_domains
 nftset=/mattermost.com/4#inet#fw4#vpn_domains
 nftset=/memu.pro/4#inet#fw4#vpn_domains
+nftset=/xigmanas.com/4#inet#fw4#vpn_domains
