@@ -9,3 +9,4 @@ nftset=/mattermost.com/4#inet#fw4#vpn_domains
 nftset=/memu.pro/4#inet#fw4#vpn_domains
 nftset=/amnezia.org/4#inet#fw4#vpn_domains
 nftset=/collinwebdesigns.de/4#inet#fw4#vpn_domains
+nftset=/astral.sh/4#inet#fw4#vpn_domains
