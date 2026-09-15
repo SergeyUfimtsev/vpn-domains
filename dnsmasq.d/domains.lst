@@ -19,3 +19,4 @@ nftset=/connect.facebook.net/4#inet#fw4#vpn_domains
 nftset=/vector.dev/4#inet#fw4#vpn_domains
 nftset=/broadcom.com/4#inet#fw4#vpn_domains
 nftset=/t.me/4#inet#fw4#vpn_domains
+nftset=/getoutline.com/4#inet#fw4#vpn_domains
